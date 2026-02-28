@@ -54,4 +54,5 @@ MomentShared/.build/
 
 .opencode/
 .sisyphus/
-.vscode
+.vscode/
+AGENTS.md
